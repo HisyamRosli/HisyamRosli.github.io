@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
    <img src="./assets/out.png" alt="" class="m-auto w-3/12"><br>
-    <p class="text-lg text-center">My Name is Hisyam Rosli, i am currently 24, 
+    <p class="text-lg text-center">My Name is Hisyam Rosli, bahit was here, 
     i do freelancing PC build, fixing, troubleshooting. 
     my hobbies, is that i practice freerunning/parkour, 
     i also love to play card games like card fight vanguard. 
